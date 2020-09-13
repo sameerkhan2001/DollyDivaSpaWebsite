@@ -142,9 +142,9 @@ label { }
 .btn { display: inline-block; padding: 14px 30px; margin-bottom: 0; font-size: 13px; font-weight: 800; 
     letter-spacing: 1px; line-height: 1.42857143; text-align: center; border: none; 
     text-transform: uppercase; border-radius: 100px;font-family: 'Montserrat', sans-serif; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;}
-.btn-hero { color: black; background-color: white; }
+.btn-hero { color: white; background-color: hotpink; }
 .btn-default { color: white; background-color:hotpink; }
-.btn-hero:hover { color: #fff; background-color: hotpink; border-color: hotpink; }
+.btn-hero:hover { color: black; background-color: white; border-color: hotpink; }
 .btn-default:hover { color: #fff; background-color: black; border-color: hotpink; }
 .btn-default.focus, .btn-default:focus { color: #fff; background-color: hotpink;  }
 .btn-primary { background-color: hotpink; color: #fff; }
